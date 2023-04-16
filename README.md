@@ -1,16 +1,13 @@
-### Hi there 👋
+### hola👋
 
-<!--
-**kelvinjorge/kelvinjorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# kelvin josue   jorge aguilar 
+### mi edad es 19 años 
+#### mi hobiess favorito es el basketball
+#### lo que me gusta es programar 
+- html
+- css etc 
+####estoy estudiando actualmente en la utec llevo 4 materias que son 
+1. algoritmo
+2. matematica
+3. orientacion tecnica de ingenieria
+4. seminario talller de competencia 
