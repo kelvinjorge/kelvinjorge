@@ -6,7 +6,7 @@
 #### lo que me gusta es programar 
 - html
 - css etc 
-####estoy estudiando actualmente en la utec llevo 4 materias que son 
+#### estoy estudiando actualmente en la utec llevo 4 materias que son 
 1. algoritmo
 2. matematica
 3. orientacion tecnica de ingenieria
